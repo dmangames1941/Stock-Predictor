@@ -2,6 +2,13 @@
 
 Project by Dalton Corriher
 
+## Important Upcoming Updates:
+I am currently in the process of updating this project and improving the model. Current plans are:
+- Gather more data for the model using Pandas_ta to get stock indicator data
+- Build a regression based model for price predictions
+- Update the existing LSTM model
+- Build a Sentiment Analysis Language model to analyze financial articals for the input stock
+
 ## What is the Stock Predictor Notebook?
 This Interactive Python Notebook uses a Long short-term memory (LSTM) machine learning algorithm to predict a stocks closing price.
 
